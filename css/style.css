@@ -1,0 +1,70 @@
+#background{
+	display:block;
+	width: 1280px;
+	height: 800px;
+	margin:0 auto;
+	margin-top:50px;
+}
+
+#homme{
+	position:absolute;
+	top:659px;
+	left:1013px;
+}
+
+#femme{
+	position:absolute;
+	top:659px;
+	left:699px;
+
+}
+#valider {
+	position: absolute;
+	top: 653px;
+	width: 140px;
+	height: 36px;
+	border-radius: 50px;
+	left: 797px;
+	background: rgba(255,255,255,0);
+	font-size: 30px;
+	font-family: 'helvetica';
+}
+#form{
+	position: absolute;
+	top: -108px;
+	left: 180px;
+}
+#pseudo {
+	width: 228px;
+	height: 50px;
+	position: absolute;
+	top: 126px;
+	left: 762px;
+	font-family: 'helvetica';
+	/* border-radius: 39px; */
+	background: rgba(255,255,255,0);
+	font-size: 40px;
+	color: white;
+}
+h1{
+position: absolute;
+top: 202px;
+left: 725px;
+font-family: "A Gothique Time";
+font-size: 80px;
+}
+h2 {
+position: absolute;
+top: 695px;
+left: 789px;
+}
+h3 {
+position: absolute;
+top: 695px;
+left: 1102px;
+}
+form{
+	position: absolute;
+	top: 90px;
+	left: 100px;
+}
